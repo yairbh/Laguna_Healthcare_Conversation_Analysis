@@ -1,0 +1,869 @@
+Question: Q1
+------------
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker asks for the listener's name, date of birth, and address.
+    - "0" if the speaker does not ask for the listener's name, date of birth, and address.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+Speaker B: Thank you for calling DataPeak Co Medical Center. We are pleased to announce that HorizonEdge Corp has changed its name to DataPeak Co. Over the coming months, you'll notice the new name, a new logo, and a new look. As we transition from FutureMind Solutions to DataPeak Co across our health system, our name and look will be different, but our purpose remains the same and you can expect the same great care and service from your physicians, nurses, and hospitals. Eight of our attendants will be with you shortly. Speaker E: Hall Tip, care and end of life units. Speaker F: Hello, this is Caleb. How Speaker C: Sep I help you? Hi Caleb. I'm looking to be connected to the room for, uh, Mr. Olivia Carrasco. 2 U 3 X W T K. Speaker F: Albuquerque Speaker C: On. Thank you. Speaker F: You're welcome. He is in DataPeak LLC 22. Would you like that number? And I can transfer you in case it's Speaker C: Busy. That'd be great. Thank you. Speaker F: It's 241.213.222.207 249.231.218.245 18 28. Speaker C: Thank you so much. Speaker F: Have a good day. You're welcome. Speaker E: Occasion you wish to visit or go to viant http://www.Xyblaze.gov/admin/notifications/ covid-3. Thank you. And a communications associate will be with you momentarily. Speaker D: Hello? Speaker C: Hi, is this Olivia Carrasco? Speaker D: Yes it Speaker C: Is. Hi Olivia. My name is Gilli. I'm a nurse with TechFuse LLC calling from a recorded line in four days. Um, we are partnering with your Anthem, blue Cross and StormFront Inc benefits to support you with your care needs and recovery. Mm-hmm. <affirmative>, how are, how are you feeling in four days? Speaker D: I'm good. Speaker C: You're good. Um, I see that you're back in the hospital again for, for, was it, um, more bleeding, is that right? Speaker D: Yes. Speaker C: Okay. Uh, I'd love to be able to support you and make sure that you have all that you need to recover well at home. Um, Olivia, just to protect your privacy, can you gimme your date of birth and 2552 Highland Grove address? Speaker D: 1923. Okay. You say you call a recorded line? Speaker C: Yeah, I'm, we're part of, we're part of your benefits. Um, uh, we do tele nursing, so basically tele-coaching, so that I call to, to, uh, support you in your recovery. Speaker D: Well this what you calling out of, Speaker C: It's called TechFuse LLC. We partnered with your Anthem BlueLink Co and StormFront Inc benefits. It's an extension of their case management. Speaker D: I ain't never heard of this. Speaker C: No, we're, we're a, we're a, a new part of new partner with, uh, SparkCore Solutions, but um, we, what we do is we support you in your recovery so that we check in to make sure you don't have to get rehospitalized for any issues. I can send you some information on it, so it's perfectly
+
+Your response (1, 0, or -9):
+
+
+Answer: 1
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker asks for the listener's name, date of birth, and address.
+    - "0" if the speaker does not ask for the listener's name, date of birth, and address.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+four days. Um, we are partnering with your Anthem, blue Cross and StormFront Inc benefits to support you with your care needs and recovery. Mm-hmm. <affirmative>, how are, how are you feeling in four days? Speaker D: I'm good. Speaker C: You're good. Um, I see that you're back in the hospital again for, for, was it, um, more bleeding, is that right? Speaker D: Yes. Speaker C: Okay. Uh, I'd love to be able to support you and make sure that you have all that you need to recover well at home. Um, Olivia, just to protect your privacy, can you gimme your date of birth and 2552 Highland Grove address? Speaker D: 1923. Okay. You say you call a recorded line? Speaker C: Yeah, I'm, we're part of, we're part of your benefits. Um, uh, we do tele nursing, so basically tele-coaching, so that I call to, to, uh, support you in your recovery. Speaker D: Well this what you calling out of, Speaker C: It's called TechFuse LLC. We partnered with your Anthem BlueLink Co and StormFront Inc benefits. It's an extension of their case management. Speaker D: I ain't never heard of this. Speaker C: No, we're, we're a, we're a, a new part of new partner with, uh, SparkCore Solutions, but um, we, what we do is we support you in your recovery so that we check in to make sure you don't have to get rehospitalized for any issues. I can send you some information on it, so it's perfectly fine. Speaker D: I sure would like for you this, I don't like giving my information I ain't never heard of before. Speaker C: Sure. And, and all I'm doing, I have your information. We, again, we get your, your basically your records as part of your benefits. I just wanted to verify your privacy, protect your privacy just by asking for HIPAA laws the same way that the nurses will check your bracelet and ask you to state your date of birth when they give you medication. Um, you know, um, so it's not that I'm, you know, looking to take anything from you. I'm just looking to help support you, uh, with your recovery. Um, yeah, let me, let me send you some information. Do you have a uh, cell phone I can send you? Uh, a text to, yeah. Speaker D: Cell Speaker C: Phone. Okay. What's your cell phone number? Speaker D: Eight three one seven three four four three four three four three four three. Speaker C: Okay. Yeah, I'll send you a text with some information on, um, not just um, our company but how to download our app and what we do, it's, what I recommend you do is, uh, especially when you get discharged is you check in on that app every day and you kind of monitor your progress. Um mm-hmm. <affirmative>, it also gives you a direct line to chat with me. Um, you can answer, send any questions that you have, any issues that you
+
+Your response (1, 0, or -9):
+
+
+Answer: 1
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker asks for the listener's name, date of birth, and address.
+    - "0" if the speaker does not ask for the listener's name, date of birth, and address.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+fine. Speaker D: I sure would like for you this, I don't like giving my information I ain't never heard of before. Speaker C: Sure. And, and all I'm doing, I have your information. We, again, we get your, your basically your records as part of your benefits. I just wanted to verify your privacy, protect your privacy just by asking for HIPAA laws the same way that the nurses will check your bracelet and ask you to state your date of birth when they give you medication. Um, you know, um, so it's not that I'm, you know, looking to take anything from you. I'm just looking to help support you, uh, with your recovery. Um, yeah, let me, let me send you some information. Do you have a uh, cell phone I can send you? Uh, a text to, yeah. Speaker D: Cell Speaker C: Phone. Okay. What's your cell phone number? Speaker D: Eight three one seven three four four three four three four three four three. Speaker C: Okay. Yeah, I'll send you a text with some information on, um, not just um, our company but how to download our app and what we do, it's, what I recommend you do is, uh, especially when you get discharged is you check in on that app every day and you kind of monitor your progress. Um mm-hmm. <affirmative>, it also gives you a direct line to chat with me. Um, you can answer, send any questions that you have, any issues that you have getting medications or equipment that you might need at home. Um, it's all right there, you know, for our support. Um, do they give you an timeframe of when you might be discharged? Speaker D: They said in the next hour. Speaker C: Oh, so you're going home in four days you think? Speaker D: Yes, I am. Speaker C: Okay, that's good to hear. Um, then what I can do then is let me send you some of that information and then I can give you a call in five days if you look us up and you feel comfortable with everything. Um, okay. I, okay. And is there a good time or day, uh, a good time of day for me to call you in five days for morning or Speaker D: Afternoon? Five innocent and time at zero in the morning. Speaker C: Oh yeah, we won't call that early <laugh>, we usually don't call until after two. Speaker D: Yeah, anytime after two be fine. Speaker C: Okay. Okay. I'll send you that information and then, um, uh, like I said, if you want, you can take a look at the app and if you feel comfortable downloading it, it's also only the kind of thing that you need to keep on your phone for the first 3 days. You don't need to keep it forever. Um, we're really here just to make sure that you have everything from, you know, that the first month out of getting out of the
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker asks for the listener's name, date of birth, and address.
+    - "0" if the speaker does not ask for the listener's name, date of birth, and address.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+have getting medications or equipment that you might need at home. Um, it's all right there, you know, for our support. Um, do they give you an timeframe of when you might be discharged? Speaker D: They said in the next hour. Speaker C: Oh, so you're going home in four days you think? Speaker D: Yes, I am. Speaker C: Okay, that's good to hear. Um, then what I can do then is let me send you some of that information and then I can give you a call in five days if you look us up and you feel comfortable with everything. Um, okay. I, okay. And is there a good time or day, uh, a good time of day for me to call you in five days for morning or Speaker D: Afternoon? Five innocent and time at zero in the morning. Speaker C: Oh yeah, we won't call that early <laugh>, we usually don't call until after two. Speaker D: Yeah, anytime after two be fine. Speaker C: Okay. Okay. I'll send you that information and then, um, uh, like I said, if you want, you can take a look at the app and if you feel comfortable downloading it, it's also only the kind of thing that you need to keep on your phone for the first 3 days. You don't need to keep it forever. Um, we're really here just to make sure that you have everything from, you know, that the first month out of getting out of the hospital. Um, alright. And the only other thing I just would recommend is you're gonna get paperwork called discharge instructions when you get home, Hmmhmm. Um, if you can hang into that, I'd love to go over that with you just to make sure that you have all your medication right, that you have your follow-up appointments set up and I can, I can put all that information even into the app for us. So just hang onto that paperwork. Okay? Speaker D: I will. Speaker C: All right. Well listen, uh, I'll send you a text shortly and um, you feel better and I'll talk to you in five days. Speaker D: All right, thanks. Speaker C: All right. Take care. Bye.
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker asks for the listener's name, date of birth, and address.
+    - "0" if the speaker does not ask for the listener's name, date of birth, and address.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+hospital. Um, alright. And the only other thing I just would recommend is you're gonna get paperwork called discharge instructions when you get home, Hmmhmm. Um, if you can hang into that, I'd love to go over that with you just to make sure that you have all your medication right, that you have your follow-up appointments set up and I can, I can put all that information even into the app for us. So just hang onto that paperwork. Okay? Speaker D: I will. Speaker C: All right. Well listen, uh, I'll send you a text shortly and um, you feel better and I'll talk to you in five days. Speaker D: All right, thanks. Speaker C: All right. Take care. Bye.
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Question: Q2
+------------
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker informs the listener that the conversation is being recorded.
+    - "0" if the speaker does not inform the listener that the conversation is being recorded.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+Speaker B: Thank you for calling DataPeak Co Medical Center. We are pleased to announce that HorizonEdge Corp has changed its name to DataPeak Co. Over the coming months, you'll notice the new name, a new logo, and a new look. As we transition from FutureMind Solutions to DataPeak Co across our health system, our name and look will be different, but our purpose remains the same and you can expect the same great care and service from your physicians, nurses, and hospitals. Eight of our attendants will be with you shortly. Speaker E: Hall Tip, care and end of life units. Speaker F: Hello, this is Caleb. How Speaker C: Sep I help you? Hi Caleb. I'm looking to be connected to the room for, uh, Mr. Olivia Carrasco. 2 U 3 X W T K. Speaker F: Albuquerque Speaker C: On. Thank you. Speaker F: You're welcome. He is in DataPeak LLC 22. Would you like that number? And I can transfer you in case it's Speaker C: Busy. That'd be great. Thank you. Speaker F: It's 241.213.222.207 249.231.218.245 18 28. Speaker C: Thank you so much. Speaker F: Have a good day. You're welcome. Speaker E: Occasion you wish to visit or go to viant http://www.Xyblaze.gov/admin/notifications/ covid-3. Thank you. And a communications associate will be with you momentarily. Speaker D: Hello? Speaker C: Hi, is this Olivia Carrasco? Speaker D: Yes it Speaker C: Is. Hi Olivia. My name is Gilli. I'm a nurse with TechFuse LLC calling from a recorded line in four days. Um, we are partnering with your Anthem, blue Cross and StormFront Inc benefits to support you with your care needs and recovery. Mm-hmm. <affirmative>, how are, how are you feeling in four days? Speaker D: I'm good. Speaker C: You're good. Um, I see that you're back in the hospital again for, for, was it, um, more bleeding, is that right? Speaker D: Yes. Speaker C: Okay. Uh, I'd love to be able to support you and make sure that you have all that you need to recover well at home. Um, Olivia, just to protect your privacy, can you gimme your date of birth and 2552 Highland Grove address? Speaker D: 1923. Okay. You say you call a recorded line? Speaker C: Yeah, I'm, we're part of, we're part of your benefits. Um, uh, we do tele nursing, so basically tele-coaching, so that I call to, to, uh, support you in your recovery. Speaker D: Well this what you calling out of, Speaker C: It's called TechFuse LLC. We partnered with your Anthem BlueLink Co and StormFront Inc benefits. It's an extension of their case management. Speaker D: I ain't never heard of this. Speaker C: No, we're, we're a, we're a, a new part of new partner with, uh, SparkCore Solutions, but um, we, what we do is we support you in your recovery so that we check in to make sure you don't have to get rehospitalized for any issues. I can send you some information on it, so it's perfectly
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker informs the listener that the conversation is being recorded.
+    - "0" if the speaker does not inform the listener that the conversation is being recorded.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+four days. Um, we are partnering with your Anthem, blue Cross and StormFront Inc benefits to support you with your care needs and recovery. Mm-hmm. <affirmative>, how are, how are you feeling in four days? Speaker D: I'm good. Speaker C: You're good. Um, I see that you're back in the hospital again for, for, was it, um, more bleeding, is that right? Speaker D: Yes. Speaker C: Okay. Uh, I'd love to be able to support you and make sure that you have all that you need to recover well at home. Um, Olivia, just to protect your privacy, can you gimme your date of birth and 2552 Highland Grove address? Speaker D: 1923. Okay. You say you call a recorded line? Speaker C: Yeah, I'm, we're part of, we're part of your benefits. Um, uh, we do tele nursing, so basically tele-coaching, so that I call to, to, uh, support you in your recovery. Speaker D: Well this what you calling out of, Speaker C: It's called TechFuse LLC. We partnered with your Anthem BlueLink Co and StormFront Inc benefits. It's an extension of their case management. Speaker D: I ain't never heard of this. Speaker C: No, we're, we're a, we're a, a new part of new partner with, uh, SparkCore Solutions, but um, we, what we do is we support you in your recovery so that we check in to make sure you don't have to get rehospitalized for any issues. I can send you some information on it, so it's perfectly fine. Speaker D: I sure would like for you this, I don't like giving my information I ain't never heard of before. Speaker C: Sure. And, and all I'm doing, I have your information. We, again, we get your, your basically your records as part of your benefits. I just wanted to verify your privacy, protect your privacy just by asking for HIPAA laws the same way that the nurses will check your bracelet and ask you to state your date of birth when they give you medication. Um, you know, um, so it's not that I'm, you know, looking to take anything from you. I'm just looking to help support you, uh, with your recovery. Um, yeah, let me, let me send you some information. Do you have a uh, cell phone I can send you? Uh, a text to, yeah. Speaker D: Cell Speaker C: Phone. Okay. What's your cell phone number? Speaker D: Eight three one seven three four four three four three four three four three. Speaker C: Okay. Yeah, I'll send you a text with some information on, um, not just um, our company but how to download our app and what we do, it's, what I recommend you do is, uh, especially when you get discharged is you check in on that app every day and you kind of monitor your progress. Um mm-hmm. <affirmative>, it also gives you a direct line to chat with me. Um, you can answer, send any questions that you have, any issues that you
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker informs the listener that the conversation is being recorded.
+    - "0" if the speaker does not inform the listener that the conversation is being recorded.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+fine. Speaker D: I sure would like for you this, I don't like giving my information I ain't never heard of before. Speaker C: Sure. And, and all I'm doing, I have your information. We, again, we get your, your basically your records as part of your benefits. I just wanted to verify your privacy, protect your privacy just by asking for HIPAA laws the same way that the nurses will check your bracelet and ask you to state your date of birth when they give you medication. Um, you know, um, so it's not that I'm, you know, looking to take anything from you. I'm just looking to help support you, uh, with your recovery. Um, yeah, let me, let me send you some information. Do you have a uh, cell phone I can send you? Uh, a text to, yeah. Speaker D: Cell Speaker C: Phone. Okay. What's your cell phone number? Speaker D: Eight three one seven three four four three four three four three four three. Speaker C: Okay. Yeah, I'll send you a text with some information on, um, not just um, our company but how to download our app and what we do, it's, what I recommend you do is, uh, especially when you get discharged is you check in on that app every day and you kind of monitor your progress. Um mm-hmm. <affirmative>, it also gives you a direct line to chat with me. Um, you can answer, send any questions that you have, any issues that you have getting medications or equipment that you might need at home. Um, it's all right there, you know, for our support. Um, do they give you an timeframe of when you might be discharged? Speaker D: They said in the next hour. Speaker C: Oh, so you're going home in four days you think? Speaker D: Yes, I am. Speaker C: Okay, that's good to hear. Um, then what I can do then is let me send you some of that information and then I can give you a call in five days if you look us up and you feel comfortable with everything. Um, okay. I, okay. And is there a good time or day, uh, a good time of day for me to call you in five days for morning or Speaker D: Afternoon? Five innocent and time at zero in the morning. Speaker C: Oh yeah, we won't call that early <laugh>, we usually don't call until after two. Speaker D: Yeah, anytime after two be fine. Speaker C: Okay. Okay. I'll send you that information and then, um, uh, like I said, if you want, you can take a look at the app and if you feel comfortable downloading it, it's also only the kind of thing that you need to keep on your phone for the first 3 days. You don't need to keep it forever. Um, we're really here just to make sure that you have everything from, you know, that the first month out of getting out of the
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker informs the listener that the conversation is being recorded.
+    - "0" if the speaker does not inform the listener that the conversation is being recorded.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+have getting medications or equipment that you might need at home. Um, it's all right there, you know, for our support. Um, do they give you an timeframe of when you might be discharged? Speaker D: They said in the next hour. Speaker C: Oh, so you're going home in four days you think? Speaker D: Yes, I am. Speaker C: Okay, that's good to hear. Um, then what I can do then is let me send you some of that information and then I can give you a call in five days if you look us up and you feel comfortable with everything. Um, okay. I, okay. And is there a good time or day, uh, a good time of day for me to call you in five days for morning or Speaker D: Afternoon? Five innocent and time at zero in the morning. Speaker C: Oh yeah, we won't call that early <laugh>, we usually don't call until after two. Speaker D: Yeah, anytime after two be fine. Speaker C: Okay. Okay. I'll send you that information and then, um, uh, like I said, if you want, you can take a look at the app and if you feel comfortable downloading it, it's also only the kind of thing that you need to keep on your phone for the first 3 days. You don't need to keep it forever. Um, we're really here just to make sure that you have everything from, you know, that the first month out of getting out of the hospital. Um, alright. And the only other thing I just would recommend is you're gonna get paperwork called discharge instructions when you get home, Hmmhmm. Um, if you can hang into that, I'd love to go over that with you just to make sure that you have all your medication right, that you have your follow-up appointments set up and I can, I can put all that information even into the app for us. So just hang onto that paperwork. Okay? Speaker D: I will. Speaker C: All right. Well listen, uh, I'll send you a text shortly and um, you feel better and I'll talk to you in five days. Speaker D: All right, thanks. Speaker C: All right. Take care. Bye.
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker informs the listener that the conversation is being recorded.
+    - "0" if the speaker does not inform the listener that the conversation is being recorded.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+hospital. Um, alright. And the only other thing I just would recommend is you're gonna get paperwork called discharge instructions when you get home, Hmmhmm. Um, if you can hang into that, I'd love to go over that with you just to make sure that you have all your medication right, that you have your follow-up appointments set up and I can, I can put all that information even into the app for us. So just hang onto that paperwork. Okay? Speaker D: I will. Speaker C: All right. Well listen, uh, I'll send you a text shortly and um, you feel better and I'll talk to you in five days. Speaker D: All right, thanks. Speaker C: All right. Take care. Bye.
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Question: Q4
+------------
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker introduces themselves to the listener, including their name and organization.
+    - "0" if the speaker does not introduce themselves to the listener, including their name and organization.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+Speaker B: Thank you for calling DataPeak Co Medical Center. We are pleased to announce that HorizonEdge Corp has changed its name to DataPeak Co. Over the coming months, you'll notice the new name, a new logo, and a new look. As we transition from FutureMind Solutions to DataPeak Co across our health system, our name and look will be different, but our purpose remains the same and you can expect the same great care and service from your physicians, nurses, and hospitals. Eight of our attendants will be with you shortly. Speaker E: Hall Tip, care and end of life units. Speaker F: Hello, this is Caleb. How Speaker C: Sep I help you? Hi Caleb. I'm looking to be connected to the room for, uh, Mr. Olivia Carrasco. 2 U 3 X W T K. Speaker F: Albuquerque Speaker C: On. Thank you. Speaker F: You're welcome. He is in DataPeak LLC 22. Would you like that number? And I can transfer you in case it's Speaker C: Busy. That'd be great. Thank you. Speaker F: It's 241.213.222.207 249.231.218.245 18 28. Speaker C: Thank you so much. Speaker F: Have a good day. You're welcome. Speaker E: Occasion you wish to visit or go to viant http://www.Xyblaze.gov/admin/notifications/ covid-3. Thank you. And a communications associate will be with you momentarily. Speaker D: Hello? Speaker C: Hi, is this Olivia Carrasco? Speaker D: Yes it Speaker C: Is. Hi Olivia. My name is Gilli. I'm a nurse with TechFuse LLC calling from a recorded line in four days. Um, we are partnering with your Anthem, blue Cross and StormFront Inc benefits to support you with your care needs and recovery. Mm-hmm. <affirmative>, how are, how are you feeling in four days? Speaker D: I'm good. Speaker C: You're good. Um, I see that you're back in the hospital again for, for, was it, um, more bleeding, is that right? Speaker D: Yes. Speaker C: Okay. Uh, I'd love to be able to support you and make sure that you have all that you need to recover well at home. Um, Olivia, just to protect your privacy, can you gimme your date of birth and 2552 Highland Grove address? Speaker D: 1923. Okay. You say you call a recorded line? Speaker C: Yeah, I'm, we're part of, we're part of your benefits. Um, uh, we do tele nursing, so basically tele-coaching, so that I call to, to, uh, support you in your recovery. Speaker D: Well this what you calling out of, Speaker C: It's called TechFuse LLC. We partnered with your Anthem BlueLink Co and StormFront Inc benefits. It's an extension of their case management. Speaker D: I ain't never heard of this. Speaker C: No, we're, we're a, we're a, a new part of new partner with, uh, SparkCore Solutions, but um, we, what we do is we support you in your recovery so that we check in to make sure you don't have to get rehospitalized for any issues. I can send you some information on it, so it's perfectly
+
+Your response (1, 0, or -9):
+
+
+Answer: 1
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker introduces themselves to the listener, including their name and organization.
+    - "0" if the speaker does not introduce themselves to the listener, including their name and organization.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+four days. Um, we are partnering with your Anthem, blue Cross and StormFront Inc benefits to support you with your care needs and recovery. Mm-hmm. <affirmative>, how are, how are you feeling in four days? Speaker D: I'm good. Speaker C: You're good. Um, I see that you're back in the hospital again for, for, was it, um, more bleeding, is that right? Speaker D: Yes. Speaker C: Okay. Uh, I'd love to be able to support you and make sure that you have all that you need to recover well at home. Um, Olivia, just to protect your privacy, can you gimme your date of birth and 2552 Highland Grove address? Speaker D: 1923. Okay. You say you call a recorded line? Speaker C: Yeah, I'm, we're part of, we're part of your benefits. Um, uh, we do tele nursing, so basically tele-coaching, so that I call to, to, uh, support you in your recovery. Speaker D: Well this what you calling out of, Speaker C: It's called TechFuse LLC. We partnered with your Anthem BlueLink Co and StormFront Inc benefits. It's an extension of their case management. Speaker D: I ain't never heard of this. Speaker C: No, we're, we're a, we're a, a new part of new partner with, uh, SparkCore Solutions, but um, we, what we do is we support you in your recovery so that we check in to make sure you don't have to get rehospitalized for any issues. I can send you some information on it, so it's perfectly fine. Speaker D: I sure would like for you this, I don't like giving my information I ain't never heard of before. Speaker C: Sure. And, and all I'm doing, I have your information. We, again, we get your, your basically your records as part of your benefits. I just wanted to verify your privacy, protect your privacy just by asking for HIPAA laws the same way that the nurses will check your bracelet and ask you to state your date of birth when they give you medication. Um, you know, um, so it's not that I'm, you know, looking to take anything from you. I'm just looking to help support you, uh, with your recovery. Um, yeah, let me, let me send you some information. Do you have a uh, cell phone I can send you? Uh, a text to, yeah. Speaker D: Cell Speaker C: Phone. Okay. What's your cell phone number? Speaker D: Eight three one seven three four four three four three four three four three. Speaker C: Okay. Yeah, I'll send you a text with some information on, um, not just um, our company but how to download our app and what we do, it's, what I recommend you do is, uh, especially when you get discharged is you check in on that app every day and you kind of monitor your progress. Um mm-hmm. <affirmative>, it also gives you a direct line to chat with me. Um, you can answer, send any questions that you have, any issues that you
+
+Your response (1, 0, or -9):
+
+
+Answer: 1
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker introduces themselves to the listener, including their name and organization.
+    - "0" if the speaker does not introduce themselves to the listener, including their name and organization.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+fine. Speaker D: I sure would like for you this, I don't like giving my information I ain't never heard of before. Speaker C: Sure. And, and all I'm doing, I have your information. We, again, we get your, your basically your records as part of your benefits. I just wanted to verify your privacy, protect your privacy just by asking for HIPAA laws the same way that the nurses will check your bracelet and ask you to state your date of birth when they give you medication. Um, you know, um, so it's not that I'm, you know, looking to take anything from you. I'm just looking to help support you, uh, with your recovery. Um, yeah, let me, let me send you some information. Do you have a uh, cell phone I can send you? Uh, a text to, yeah. Speaker D: Cell Speaker C: Phone. Okay. What's your cell phone number? Speaker D: Eight three one seven three four four three four three four three four three. Speaker C: Okay. Yeah, I'll send you a text with some information on, um, not just um, our company but how to download our app and what we do, it's, what I recommend you do is, uh, especially when you get discharged is you check in on that app every day and you kind of monitor your progress. Um mm-hmm. <affirmative>, it also gives you a direct line to chat with me. Um, you can answer, send any questions that you have, any issues that you have getting medications or equipment that you might need at home. Um, it's all right there, you know, for our support. Um, do they give you an timeframe of when you might be discharged? Speaker D: They said in the next hour. Speaker C: Oh, so you're going home in four days you think? Speaker D: Yes, I am. Speaker C: Okay, that's good to hear. Um, then what I can do then is let me send you some of that information and then I can give you a call in five days if you look us up and you feel comfortable with everything. Um, okay. I, okay. And is there a good time or day, uh, a good time of day for me to call you in five days for morning or Speaker D: Afternoon? Five innocent and time at zero in the morning. Speaker C: Oh yeah, we won't call that early <laugh>, we usually don't call until after two. Speaker D: Yeah, anytime after two be fine. Speaker C: Okay. Okay. I'll send you that information and then, um, uh, like I said, if you want, you can take a look at the app and if you feel comfortable downloading it, it's also only the kind of thing that you need to keep on your phone for the first 3 days. You don't need to keep it forever. Um, we're really here just to make sure that you have everything from, you know, that the first month out of getting out of the
+
+Your response (1, 0, or -9):
+
+
+Answer: 1
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker introduces themselves to the listener, including their name and organization.
+    - "0" if the speaker does not introduce themselves to the listener, including their name and organization.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+have getting medications or equipment that you might need at home. Um, it's all right there, you know, for our support. Um, do they give you an timeframe of when you might be discharged? Speaker D: They said in the next hour. Speaker C: Oh, so you're going home in four days you think? Speaker D: Yes, I am. Speaker C: Okay, that's good to hear. Um, then what I can do then is let me send you some of that information and then I can give you a call in five days if you look us up and you feel comfortable with everything. Um, okay. I, okay. And is there a good time or day, uh, a good time of day for me to call you in five days for morning or Speaker D: Afternoon? Five innocent and time at zero in the morning. Speaker C: Oh yeah, we won't call that early <laugh>, we usually don't call until after two. Speaker D: Yeah, anytime after two be fine. Speaker C: Okay. Okay. I'll send you that information and then, um, uh, like I said, if you want, you can take a look at the app and if you feel comfortable downloading it, it's also only the kind of thing that you need to keep on your phone for the first 3 days. You don't need to keep it forever. Um, we're really here just to make sure that you have everything from, you know, that the first month out of getting out of the hospital. Um, alright. And the only other thing I just would recommend is you're gonna get paperwork called discharge instructions when you get home, Hmmhmm. Um, if you can hang into that, I'd love to go over that with you just to make sure that you have all your medication right, that you have your follow-up appointments set up and I can, I can put all that information even into the app for us. So just hang onto that paperwork. Okay? Speaker D: I will. Speaker C: All right. Well listen, uh, I'll send you a text shortly and um, you feel better and I'll talk to you in five days. Speaker D: All right, thanks. Speaker C: All right. Take care. Bye.
+
+Your response (1, 0, or -9):
+
+
+Answer: 1
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker introduces themselves to the listener, including their name and organization.
+    - "0" if the speaker does not introduce themselves to the listener, including their name and organization.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+hospital. Um, alright. And the only other thing I just would recommend is you're gonna get paperwork called discharge instructions when you get home, Hmmhmm. Um, if you can hang into that, I'd love to go over that with you just to make sure that you have all your medication right, that you have your follow-up appointments set up and I can, I can put all that information even into the app for us. So just hang onto that paperwork. Okay? Speaker D: I will. Speaker C: All right. Well listen, uh, I'll send you a text shortly and um, you feel better and I'll talk to you in five days. Speaker D: All right, thanks. Speaker C: All right. Take care. Bye.
+
+Your response (1, 0, or -9):
+
+
+Answer: 1
+
+Question: Q5
+------------
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker mentions PHI (Protected Health Information) or relates to handling PHI.
+    - "0" if the speaker does not mention PHI (Protected Health Information) or relate to handling PHI.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+Speaker B: Thank you for calling DataPeak Co Medical Center. We are pleased to announce that HorizonEdge Corp has changed its name to DataPeak Co. Over the coming months, you'll notice the new name, a new logo, and a new look. As we transition from FutureMind Solutions to DataPeak Co across our health system, our name and look will be different, but our purpose remains the same and you can expect the same great care and service from your physicians, nurses, and hospitals. Eight of our attendants will be with you shortly. Speaker E: Hall Tip, care and end of life units. Speaker F: Hello, this is Caleb. How Speaker C: Sep I help you? Hi Caleb. I'm looking to be connected to the room for, uh, Mr. Olivia Carrasco. 2 U 3 X W T K. Speaker F: Albuquerque Speaker C: On. Thank you. Speaker F: You're welcome. He is in DataPeak LLC 22. Would you like that number? And I can transfer you in case it's Speaker C: Busy. That'd be great. Thank you. Speaker F: It's 241.213.222.207 249.231.218.245 18 28. Speaker C: Thank you so much. Speaker F: Have a good day. You're welcome. Speaker E: Occasion you wish to visit or go to viant http://www.Xyblaze.gov/admin/notifications/ covid-3. Thank you. And a communications associate will be with you momentarily. Speaker D: Hello? Speaker C: Hi, is this Olivia Carrasco? Speaker D: Yes it Speaker C: Is. Hi Olivia. My name is Gilli. I'm a nurse with TechFuse LLC calling from a recorded line in four days. Um, we are partnering with your Anthem, blue Cross and StormFront Inc benefits to support you with your care needs and recovery. Mm-hmm. <affirmative>, how are, how are you feeling in four days? Speaker D: I'm good. Speaker C: You're good. Um, I see that you're back in the hospital again for, for, was it, um, more bleeding, is that right? Speaker D: Yes. Speaker C: Okay. Uh, I'd love to be able to support you and make sure that you have all that you need to recover well at home. Um, Olivia, just to protect your privacy, can you gimme your date of birth and 2552 Highland Grove address? Speaker D: 1923. Okay. You say you call a recorded line? Speaker C: Yeah, I'm, we're part of, we're part of your benefits. Um, uh, we do tele nursing, so basically tele-coaching, so that I call to, to, uh, support you in your recovery. Speaker D: Well this what you calling out of, Speaker C: It's called TechFuse LLC. We partnered with your Anthem BlueLink Co and StormFront Inc benefits. It's an extension of their case management. Speaker D: I ain't never heard of this. Speaker C: No, we're, we're a, we're a, a new part of new partner with, uh, SparkCore Solutions, but um, we, what we do is we support you in your recovery so that we check in to make sure you don't have to get rehospitalized for any issues. I can send you some information on it, so it's perfectly
+
+Your response (1, 0, or -9):
+
+
+Answer: 1
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker mentions PHI (Protected Health Information) or relates to handling PHI.
+    - "0" if the speaker does not mention PHI (Protected Health Information) or relate to handling PHI.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+four days. Um, we are partnering with your Anthem, blue Cross and StormFront Inc benefits to support you with your care needs and recovery. Mm-hmm. <affirmative>, how are, how are you feeling in four days? Speaker D: I'm good. Speaker C: You're good. Um, I see that you're back in the hospital again for, for, was it, um, more bleeding, is that right? Speaker D: Yes. Speaker C: Okay. Uh, I'd love to be able to support you and make sure that you have all that you need to recover well at home. Um, Olivia, just to protect your privacy, can you gimme your date of birth and 2552 Highland Grove address? Speaker D: 1923. Okay. You say you call a recorded line? Speaker C: Yeah, I'm, we're part of, we're part of your benefits. Um, uh, we do tele nursing, so basically tele-coaching, so that I call to, to, uh, support you in your recovery. Speaker D: Well this what you calling out of, Speaker C: It's called TechFuse LLC. We partnered with your Anthem BlueLink Co and StormFront Inc benefits. It's an extension of their case management. Speaker D: I ain't never heard of this. Speaker C: No, we're, we're a, we're a, a new part of new partner with, uh, SparkCore Solutions, but um, we, what we do is we support you in your recovery so that we check in to make sure you don't have to get rehospitalized for any issues. I can send you some information on it, so it's perfectly fine. Speaker D: I sure would like for you this, I don't like giving my information I ain't never heard of before. Speaker C: Sure. And, and all I'm doing, I have your information. We, again, we get your, your basically your records as part of your benefits. I just wanted to verify your privacy, protect your privacy just by asking for HIPAA laws the same way that the nurses will check your bracelet and ask you to state your date of birth when they give you medication. Um, you know, um, so it's not that I'm, you know, looking to take anything from you. I'm just looking to help support you, uh, with your recovery. Um, yeah, let me, let me send you some information. Do you have a uh, cell phone I can send you? Uh, a text to, yeah. Speaker D: Cell Speaker C: Phone. Okay. What's your cell phone number? Speaker D: Eight three one seven three four four three four three four three four three. Speaker C: Okay. Yeah, I'll send you a text with some information on, um, not just um, our company but how to download our app and what we do, it's, what I recommend you do is, uh, especially when you get discharged is you check in on that app every day and you kind of monitor your progress. Um mm-hmm. <affirmative>, it also gives you a direct line to chat with me. Um, you can answer, send any questions that you have, any issues that you
+
+Your response (1, 0, or -9):
+
+
+Answer: 1
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker mentions PHI (Protected Health Information) or relates to handling PHI.
+    - "0" if the speaker does not mention PHI (Protected Health Information) or relate to handling PHI.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+fine. Speaker D: I sure would like for you this, I don't like giving my information I ain't never heard of before. Speaker C: Sure. And, and all I'm doing, I have your information. We, again, we get your, your basically your records as part of your benefits. I just wanted to verify your privacy, protect your privacy just by asking for HIPAA laws the same way that the nurses will check your bracelet and ask you to state your date of birth when they give you medication. Um, you know, um, so it's not that I'm, you know, looking to take anything from you. I'm just looking to help support you, uh, with your recovery. Um, yeah, let me, let me send you some information. Do you have a uh, cell phone I can send you? Uh, a text to, yeah. Speaker D: Cell Speaker C: Phone. Okay. What's your cell phone number? Speaker D: Eight three one seven three four four three four three four three four three. Speaker C: Okay. Yeah, I'll send you a text with some information on, um, not just um, our company but how to download our app and what we do, it's, what I recommend you do is, uh, especially when you get discharged is you check in on that app every day and you kind of monitor your progress. Um mm-hmm. <affirmative>, it also gives you a direct line to chat with me. Um, you can answer, send any questions that you have, any issues that you have getting medications or equipment that you might need at home. Um, it's all right there, you know, for our support. Um, do they give you an timeframe of when you might be discharged? Speaker D: They said in the next hour. Speaker C: Oh, so you're going home in four days you think? Speaker D: Yes, I am. Speaker C: Okay, that's good to hear. Um, then what I can do then is let me send you some of that information and then I can give you a call in five days if you look us up and you feel comfortable with everything. Um, okay. I, okay. And is there a good time or day, uh, a good time of day for me to call you in five days for morning or Speaker D: Afternoon? Five innocent and time at zero in the morning. Speaker C: Oh yeah, we won't call that early <laugh>, we usually don't call until after two. Speaker D: Yeah, anytime after two be fine. Speaker C: Okay. Okay. I'll send you that information and then, um, uh, like I said, if you want, you can take a look at the app and if you feel comfortable downloading it, it's also only the kind of thing that you need to keep on your phone for the first 3 days. You don't need to keep it forever. Um, we're really here just to make sure that you have everything from, you know, that the first month out of getting out of the
+
+Your response (1, 0, or -9):
+
+
+Answer: 1
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker mentions PHI (Protected Health Information) or relates to handling PHI.
+    - "0" if the speaker does not mention PHI (Protected Health Information) or relate to handling PHI.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+have getting medications or equipment that you might need at home. Um, it's all right there, you know, for our support. Um, do they give you an timeframe of when you might be discharged? Speaker D: They said in the next hour. Speaker C: Oh, so you're going home in four days you think? Speaker D: Yes, I am. Speaker C: Okay, that's good to hear. Um, then what I can do then is let me send you some of that information and then I can give you a call in five days if you look us up and you feel comfortable with everything. Um, okay. I, okay. And is there a good time or day, uh, a good time of day for me to call you in five days for morning or Speaker D: Afternoon? Five innocent and time at zero in the morning. Speaker C: Oh yeah, we won't call that early <laugh>, we usually don't call until after two. Speaker D: Yeah, anytime after two be fine. Speaker C: Okay. Okay. I'll send you that information and then, um, uh, like I said, if you want, you can take a look at the app and if you feel comfortable downloading it, it's also only the kind of thing that you need to keep on your phone for the first 3 days. You don't need to keep it forever. Um, we're really here just to make sure that you have everything from, you know, that the first month out of getting out of the hospital. Um, alright. And the only other thing I just would recommend is you're gonna get paperwork called discharge instructions when you get home, Hmmhmm. Um, if you can hang into that, I'd love to go over that with you just to make sure that you have all your medication right, that you have your follow-up appointments set up and I can, I can put all that information even into the app for us. So just hang onto that paperwork. Okay? Speaker D: I will. Speaker C: All right. Well listen, uh, I'll send you a text shortly and um, you feel better and I'll talk to you in five days. Speaker D: All right, thanks. Speaker C: All right. Take care. Bye.
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker mentions PHI (Protected Health Information) or relates to handling PHI.
+    - "0" if the speaker does not mention PHI (Protected Health Information) or relate to handling PHI.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+hospital. Um, alright. And the only other thing I just would recommend is you're gonna get paperwork called discharge instructions when you get home, Hmmhmm. Um, if you can hang into that, I'd love to go over that with you just to make sure that you have all your medication right, that you have your follow-up appointments set up and I can, I can put all that information even into the app for us. So just hang onto that paperwork. Okay? Speaker D: I will. Speaker C: All right. Well listen, uh, I'll send you a text shortly and um, you feel better and I'll talk to you in five days. Speaker D: All right, thanks. Speaker C: All right. Take care. Bye.
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Question: Q6
+------------
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if one of the speakers requests to opt-out of future communication.
+    - "0" if none of the speakers requests to opt-out of future communication.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+Speaker B: Thank you for calling DataPeak Co Medical Center. We are pleased to announce that HorizonEdge Corp has changed its name to DataPeak Co. Over the coming months, you'll notice the new name, a new logo, and a new look. As we transition from FutureMind Solutions to DataPeak Co across our health system, our name and look will be different, but our purpose remains the same and you can expect the same great care and service from your physicians, nurses, and hospitals. Eight of our attendants will be with you shortly. Speaker E: Hall Tip, care and end of life units. Speaker F: Hello, this is Caleb. How Speaker C: Sep I help you? Hi Caleb. I'm looking to be connected to the room for, uh, Mr. Olivia Carrasco. 2 U 3 X W T K. Speaker F: Albuquerque Speaker C: On. Thank you. Speaker F: You're welcome. He is in DataPeak LLC 22. Would you like that number? And I can transfer you in case it's Speaker C: Busy. That'd be great. Thank you. Speaker F: It's 241.213.222.207 249.231.218.245 18 28. Speaker C: Thank you so much. Speaker F: Have a good day. You're welcome. Speaker E: Occasion you wish to visit or go to viant http://www.Xyblaze.gov/admin/notifications/ covid-3. Thank you. And a communications associate will be with you momentarily. Speaker D: Hello? Speaker C: Hi, is this Olivia Carrasco? Speaker D: Yes it Speaker C: Is. Hi Olivia. My name is Gilli. I'm a nurse with TechFuse LLC calling from a recorded line in four days. Um, we are partnering with your Anthem, blue Cross and StormFront Inc benefits to support you with your care needs and recovery. Mm-hmm. <affirmative>, how are, how are you feeling in four days? Speaker D: I'm good. Speaker C: You're good. Um, I see that you're back in the hospital again for, for, was it, um, more bleeding, is that right? Speaker D: Yes. Speaker C: Okay. Uh, I'd love to be able to support you and make sure that you have all that you need to recover well at home. Um, Olivia, just to protect your privacy, can you gimme your date of birth and 2552 Highland Grove address? Speaker D: 1923. Okay. You say you call a recorded line? Speaker C: Yeah, I'm, we're part of, we're part of your benefits. Um, uh, we do tele nursing, so basically tele-coaching, so that I call to, to, uh, support you in your recovery. Speaker D: Well this what you calling out of, Speaker C: It's called TechFuse LLC. We partnered with your Anthem BlueLink Co and StormFront Inc benefits. It's an extension of their case management. Speaker D: I ain't never heard of this. Speaker C: No, we're, we're a, we're a, a new part of new partner with, uh, SparkCore Solutions, but um, we, what we do is we support you in your recovery so that we check in to make sure you don't have to get rehospitalized for any issues. I can send you some information on it, so it's perfectly
+
+Your response (1, 0, or -9):
+
+
+Answer: -9
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if one of the speakers requests to opt-out of future communication.
+    - "0" if none of the speakers requests to opt-out of future communication.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+four days. Um, we are partnering with your Anthem, blue Cross and StormFront Inc benefits to support you with your care needs and recovery. Mm-hmm. <affirmative>, how are, how are you feeling in four days? Speaker D: I'm good. Speaker C: You're good. Um, I see that you're back in the hospital again for, for, was it, um, more bleeding, is that right? Speaker D: Yes. Speaker C: Okay. Uh, I'd love to be able to support you and make sure that you have all that you need to recover well at home. Um, Olivia, just to protect your privacy, can you gimme your date of birth and 2552 Highland Grove address? Speaker D: 1923. Okay. You say you call a recorded line? Speaker C: Yeah, I'm, we're part of, we're part of your benefits. Um, uh, we do tele nursing, so basically tele-coaching, so that I call to, to, uh, support you in your recovery. Speaker D: Well this what you calling out of, Speaker C: It's called TechFuse LLC. We partnered with your Anthem BlueLink Co and StormFront Inc benefits. It's an extension of their case management. Speaker D: I ain't never heard of this. Speaker C: No, we're, we're a, we're a, a new part of new partner with, uh, SparkCore Solutions, but um, we, what we do is we support you in your recovery so that we check in to make sure you don't have to get rehospitalized for any issues. I can send you some information on it, so it's perfectly fine. Speaker D: I sure would like for you this, I don't like giving my information I ain't never heard of before. Speaker C: Sure. And, and all I'm doing, I have your information. We, again, we get your, your basically your records as part of your benefits. I just wanted to verify your privacy, protect your privacy just by asking for HIPAA laws the same way that the nurses will check your bracelet and ask you to state your date of birth when they give you medication. Um, you know, um, so it's not that I'm, you know, looking to take anything from you. I'm just looking to help support you, uh, with your recovery. Um, yeah, let me, let me send you some information. Do you have a uh, cell phone I can send you? Uh, a text to, yeah. Speaker D: Cell Speaker C: Phone. Okay. What's your cell phone number? Speaker D: Eight three one seven three four four three four three four three four three. Speaker C: Okay. Yeah, I'll send you a text with some information on, um, not just um, our company but how to download our app and what we do, it's, what I recommend you do is, uh, especially when you get discharged is you check in on that app every day and you kind of monitor your progress. Um mm-hmm. <affirmative>, it also gives you a direct line to chat with me. Um, you can answer, send any questions that you have, any issues that you
+
+Your response (1, 0, or -9):
+
+
+Answer: -9
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if one of the speakers requests to opt-out of future communication.
+    - "0" if none of the speakers requests to opt-out of future communication.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+fine. Speaker D: I sure would like for you this, I don't like giving my information I ain't never heard of before. Speaker C: Sure. And, and all I'm doing, I have your information. We, again, we get your, your basically your records as part of your benefits. I just wanted to verify your privacy, protect your privacy just by asking for HIPAA laws the same way that the nurses will check your bracelet and ask you to state your date of birth when they give you medication. Um, you know, um, so it's not that I'm, you know, looking to take anything from you. I'm just looking to help support you, uh, with your recovery. Um, yeah, let me, let me send you some information. Do you have a uh, cell phone I can send you? Uh, a text to, yeah. Speaker D: Cell Speaker C: Phone. Okay. What's your cell phone number? Speaker D: Eight three one seven three four four three four three four three four three. Speaker C: Okay. Yeah, I'll send you a text with some information on, um, not just um, our company but how to download our app and what we do, it's, what I recommend you do is, uh, especially when you get discharged is you check in on that app every day and you kind of monitor your progress. Um mm-hmm. <affirmative>, it also gives you a direct line to chat with me. Um, you can answer, send any questions that you have, any issues that you have getting medications or equipment that you might need at home. Um, it's all right there, you know, for our support. Um, do they give you an timeframe of when you might be discharged? Speaker D: They said in the next hour. Speaker C: Oh, so you're going home in four days you think? Speaker D: Yes, I am. Speaker C: Okay, that's good to hear. Um, then what I can do then is let me send you some of that information and then I can give you a call in five days if you look us up and you feel comfortable with everything. Um, okay. I, okay. And is there a good time or day, uh, a good time of day for me to call you in five days for morning or Speaker D: Afternoon? Five innocent and time at zero in the morning. Speaker C: Oh yeah, we won't call that early <laugh>, we usually don't call until after two. Speaker D: Yeah, anytime after two be fine. Speaker C: Okay. Okay. I'll send you that information and then, um, uh, like I said, if you want, you can take a look at the app and if you feel comfortable downloading it, it's also only the kind of thing that you need to keep on your phone for the first 3 days. You don't need to keep it forever. Um, we're really here just to make sure that you have everything from, you know, that the first month out of getting out of the
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if one of the speakers requests to opt-out of future communication.
+    - "0" if none of the speakers requests to opt-out of future communication.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+have getting medications or equipment that you might need at home. Um, it's all right there, you know, for our support. Um, do they give you an timeframe of when you might be discharged? Speaker D: They said in the next hour. Speaker C: Oh, so you're going home in four days you think? Speaker D: Yes, I am. Speaker C: Okay, that's good to hear. Um, then what I can do then is let me send you some of that information and then I can give you a call in five days if you look us up and you feel comfortable with everything. Um, okay. I, okay. And is there a good time or day, uh, a good time of day for me to call you in five days for morning or Speaker D: Afternoon? Five innocent and time at zero in the morning. Speaker C: Oh yeah, we won't call that early <laugh>, we usually don't call until after two. Speaker D: Yeah, anytime after two be fine. Speaker C: Okay. Okay. I'll send you that information and then, um, uh, like I said, if you want, you can take a look at the app and if you feel comfortable downloading it, it's also only the kind of thing that you need to keep on your phone for the first 3 days. You don't need to keep it forever. Um, we're really here just to make sure that you have everything from, you know, that the first month out of getting out of the hospital. Um, alright. And the only other thing I just would recommend is you're gonna get paperwork called discharge instructions when you get home, Hmmhmm. Um, if you can hang into that, I'd love to go over that with you just to make sure that you have all your medication right, that you have your follow-up appointments set up and I can, I can put all that information even into the app for us. So just hang onto that paperwork. Okay? Speaker D: I will. Speaker C: All right. Well listen, uh, I'll send you a text shortly and um, you feel better and I'll talk to you in five days. Speaker D: All right, thanks. Speaker C: All right. Take care. Bye.
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if one of the speakers requests to opt-out of future communication.
+    - "0" if none of the speakers requests to opt-out of future communication.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+hospital. Um, alright. And the only other thing I just would recommend is you're gonna get paperwork called discharge instructions when you get home, Hmmhmm. Um, if you can hang into that, I'd love to go over that with you just to make sure that you have all your medication right, that you have your follow-up appointments set up and I can, I can put all that information even into the app for us. So just hang onto that paperwork. Okay? Speaker D: I will. Speaker C: All right. Well listen, uh, I'll send you a text shortly and um, you feel better and I'll talk to you in five days. Speaker D: All right, thanks. Speaker C: All right. Take care. Bye.
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Question: Q7
+------------
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker mentions sensitive medical information, including substance abuse, mental health, and sexually transmitted diseases.
+    - "0" if the speaker does not mention sensitive medical information, including substance abuse, mental health, and sexually transmitted diseases.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+Speaker B: Thank you for calling DataPeak Co Medical Center. We are pleased to announce that HorizonEdge Corp has changed its name to DataPeak Co. Over the coming months, you'll notice the new name, a new logo, and a new look. As we transition from FutureMind Solutions to DataPeak Co across our health system, our name and look will be different, but our purpose remains the same and you can expect the same great care and service from your physicians, nurses, and hospitals. Eight of our attendants will be with you shortly. Speaker E: Hall Tip, care and end of life units. Speaker F: Hello, this is Caleb. How Speaker C: Sep I help you? Hi Caleb. I'm looking to be connected to the room for, uh, Mr. Olivia Carrasco. 2 U 3 X W T K. Speaker F: Albuquerque Speaker C: On. Thank you. Speaker F: You're welcome. He is in DataPeak LLC 22. Would you like that number? And I can transfer you in case it's Speaker C: Busy. That'd be great. Thank you. Speaker F: It's 241.213.222.207 249.231.218.245 18 28. Speaker C: Thank you so much. Speaker F: Have a good day. You're welcome. Speaker E: Occasion you wish to visit or go to viant http://www.Xyblaze.gov/admin/notifications/ covid-3. Thank you. And a communications associate will be with you momentarily. Speaker D: Hello? Speaker C: Hi, is this Olivia Carrasco? Speaker D: Yes it Speaker C: Is. Hi Olivia. My name is Gilli. I'm a nurse with TechFuse LLC calling from a recorded line in four days. Um, we are partnering with your Anthem, blue Cross and StormFront Inc benefits to support you with your care needs and recovery. Mm-hmm. <affirmative>, how are, how are you feeling in four days? Speaker D: I'm good. Speaker C: You're good. Um, I see that you're back in the hospital again for, for, was it, um, more bleeding, is that right? Speaker D: Yes. Speaker C: Okay. Uh, I'd love to be able to support you and make sure that you have all that you need to recover well at home. Um, Olivia, just to protect your privacy, can you gimme your date of birth and 2552 Highland Grove address? Speaker D: 1923. Okay. You say you call a recorded line? Speaker C: Yeah, I'm, we're part of, we're part of your benefits. Um, uh, we do tele nursing, so basically tele-coaching, so that I call to, to, uh, support you in your recovery. Speaker D: Well this what you calling out of, Speaker C: It's called TechFuse LLC. We partnered with your Anthem BlueLink Co and StormFront Inc benefits. It's an extension of their case management. Speaker D: I ain't never heard of this. Speaker C: No, we're, we're a, we're a, a new part of new partner with, uh, SparkCore Solutions, but um, we, what we do is we support you in your recovery so that we check in to make sure you don't have to get rehospitalized for any issues. I can send you some information on it, so it's perfectly
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker mentions sensitive medical information, including substance abuse, mental health, and sexually transmitted diseases.
+    - "0" if the speaker does not mention sensitive medical information, including substance abuse, mental health, and sexually transmitted diseases.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+four days. Um, we are partnering with your Anthem, blue Cross and StormFront Inc benefits to support you with your care needs and recovery. Mm-hmm. <affirmative>, how are, how are you feeling in four days? Speaker D: I'm good. Speaker C: You're good. Um, I see that you're back in the hospital again for, for, was it, um, more bleeding, is that right? Speaker D: Yes. Speaker C: Okay. Uh, I'd love to be able to support you and make sure that you have all that you need to recover well at home. Um, Olivia, just to protect your privacy, can you gimme your date of birth and 2552 Highland Grove address? Speaker D: 1923. Okay. You say you call a recorded line? Speaker C: Yeah, I'm, we're part of, we're part of your benefits. Um, uh, we do tele nursing, so basically tele-coaching, so that I call to, to, uh, support you in your recovery. Speaker D: Well this what you calling out of, Speaker C: It's called TechFuse LLC. We partnered with your Anthem BlueLink Co and StormFront Inc benefits. It's an extension of their case management. Speaker D: I ain't never heard of this. Speaker C: No, we're, we're a, we're a, a new part of new partner with, uh, SparkCore Solutions, but um, we, what we do is we support you in your recovery so that we check in to make sure you don't have to get rehospitalized for any issues. I can send you some information on it, so it's perfectly fine. Speaker D: I sure would like for you this, I don't like giving my information I ain't never heard of before. Speaker C: Sure. And, and all I'm doing, I have your information. We, again, we get your, your basically your records as part of your benefits. I just wanted to verify your privacy, protect your privacy just by asking for HIPAA laws the same way that the nurses will check your bracelet and ask you to state your date of birth when they give you medication. Um, you know, um, so it's not that I'm, you know, looking to take anything from you. I'm just looking to help support you, uh, with your recovery. Um, yeah, let me, let me send you some information. Do you have a uh, cell phone I can send you? Uh, a text to, yeah. Speaker D: Cell Speaker C: Phone. Okay. What's your cell phone number? Speaker D: Eight three one seven three four four three four three four three four three. Speaker C: Okay. Yeah, I'll send you a text with some information on, um, not just um, our company but how to download our app and what we do, it's, what I recommend you do is, uh, especially when you get discharged is you check in on that app every day and you kind of monitor your progress. Um mm-hmm. <affirmative>, it also gives you a direct line to chat with me. Um, you can answer, send any questions that you have, any issues that you
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker mentions sensitive medical information, including substance abuse, mental health, and sexually transmitted diseases.
+    - "0" if the speaker does not mention sensitive medical information, including substance abuse, mental health, and sexually transmitted diseases.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+fine. Speaker D: I sure would like for you this, I don't like giving my information I ain't never heard of before. Speaker C: Sure. And, and all I'm doing, I have your information. We, again, we get your, your basically your records as part of your benefits. I just wanted to verify your privacy, protect your privacy just by asking for HIPAA laws the same way that the nurses will check your bracelet and ask you to state your date of birth when they give you medication. Um, you know, um, so it's not that I'm, you know, looking to take anything from you. I'm just looking to help support you, uh, with your recovery. Um, yeah, let me, let me send you some information. Do you have a uh, cell phone I can send you? Uh, a text to, yeah. Speaker D: Cell Speaker C: Phone. Okay. What's your cell phone number? Speaker D: Eight three one seven three four four three four three four three four three. Speaker C: Okay. Yeah, I'll send you a text with some information on, um, not just um, our company but how to download our app and what we do, it's, what I recommend you do is, uh, especially when you get discharged is you check in on that app every day and you kind of monitor your progress. Um mm-hmm. <affirmative>, it also gives you a direct line to chat with me. Um, you can answer, send any questions that you have, any issues that you have getting medications or equipment that you might need at home. Um, it's all right there, you know, for our support. Um, do they give you an timeframe of when you might be discharged? Speaker D: They said in the next hour. Speaker C: Oh, so you're going home in four days you think? Speaker D: Yes, I am. Speaker C: Okay, that's good to hear. Um, then what I can do then is let me send you some of that information and then I can give you a call in five days if you look us up and you feel comfortable with everything. Um, okay. I, okay. And is there a good time or day, uh, a good time of day for me to call you in five days for morning or Speaker D: Afternoon? Five innocent and time at zero in the morning. Speaker C: Oh yeah, we won't call that early <laugh>, we usually don't call until after two. Speaker D: Yeah, anytime after two be fine. Speaker C: Okay. Okay. I'll send you that information and then, um, uh, like I said, if you want, you can take a look at the app and if you feel comfortable downloading it, it's also only the kind of thing that you need to keep on your phone for the first 3 days. You don't need to keep it forever. Um, we're really here just to make sure that you have everything from, you know, that the first month out of getting out of the
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker mentions sensitive medical information, including substance abuse, mental health, and sexually transmitted diseases.
+    - "0" if the speaker does not mention sensitive medical information, including substance abuse, mental health, and sexually transmitted diseases.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+have getting medications or equipment that you might need at home. Um, it's all right there, you know, for our support. Um, do they give you an timeframe of when you might be discharged? Speaker D: They said in the next hour. Speaker C: Oh, so you're going home in four days you think? Speaker D: Yes, I am. Speaker C: Okay, that's good to hear. Um, then what I can do then is let me send you some of that information and then I can give you a call in five days if you look us up and you feel comfortable with everything. Um, okay. I, okay. And is there a good time or day, uh, a good time of day for me to call you in five days for morning or Speaker D: Afternoon? Five innocent and time at zero in the morning. Speaker C: Oh yeah, we won't call that early <laugh>, we usually don't call until after two. Speaker D: Yeah, anytime after two be fine. Speaker C: Okay. Okay. I'll send you that information and then, um, uh, like I said, if you want, you can take a look at the app and if you feel comfortable downloading it, it's also only the kind of thing that you need to keep on your phone for the first 3 days. You don't need to keep it forever. Um, we're really here just to make sure that you have everything from, you know, that the first month out of getting out of the hospital. Um, alright. And the only other thing I just would recommend is you're gonna get paperwork called discharge instructions when you get home, Hmmhmm. Um, if you can hang into that, I'd love to go over that with you just to make sure that you have all your medication right, that you have your follow-up appointments set up and I can, I can put all that information even into the app for us. So just hang onto that paperwork. Okay? Speaker D: I will. Speaker C: All right. Well listen, uh, I'll send you a text shortly and um, you feel better and I'll talk to you in five days. Speaker D: All right, thanks. Speaker C: All right. Take care. Bye.
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker mentions sensitive medical information, including substance abuse, mental health, and sexually transmitted diseases.
+    - "0" if the speaker does not mention sensitive medical information, including substance abuse, mental health, and sexually transmitted diseases.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+hospital. Um, alright. And the only other thing I just would recommend is you're gonna get paperwork called discharge instructions when you get home, Hmmhmm. Um, if you can hang into that, I'd love to go over that with you just to make sure that you have all your medication right, that you have your follow-up appointments set up and I can, I can put all that information even into the app for us. So just hang onto that paperwork. Okay? Speaker D: I will. Speaker C: All right. Well listen, uh, I'll send you a text shortly and um, you feel better and I'll talk to you in five days. Speaker D: All right, thanks. Speaker C: All right. Take care. Bye.
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Question: Q8
+------------
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker provides any medical consultation or advice during the call.
+    - "0" if the speaker does not provide any medical consultation or advice during the call.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+Speaker B: Thank you for calling DataPeak Co Medical Center. We are pleased to announce that HorizonEdge Corp has changed its name to DataPeak Co. Over the coming months, you'll notice the new name, a new logo, and a new look. As we transition from FutureMind Solutions to DataPeak Co across our health system, our name and look will be different, but our purpose remains the same and you can expect the same great care and service from your physicians, nurses, and hospitals. Eight of our attendants will be with you shortly. Speaker E: Hall Tip, care and end of life units. Speaker F: Hello, this is Caleb. How Speaker C: Sep I help you? Hi Caleb. I'm looking to be connected to the room for, uh, Mr. Olivia Carrasco. 2 U 3 X W T K. Speaker F: Albuquerque Speaker C: On. Thank you. Speaker F: You're welcome. He is in DataPeak LLC 22. Would you like that number? And I can transfer you in case it's Speaker C: Busy. That'd be great. Thank you. Speaker F: It's 241.213.222.207 249.231.218.245 18 28. Speaker C: Thank you so much. Speaker F: Have a good day. You're welcome. Speaker E: Occasion you wish to visit or go to viant http://www.Xyblaze.gov/admin/notifications/ covid-3. Thank you. And a communications associate will be with you momentarily. Speaker D: Hello? Speaker C: Hi, is this Olivia Carrasco? Speaker D: Yes it Speaker C: Is. Hi Olivia. My name is Gilli. I'm a nurse with TechFuse LLC calling from a recorded line in four days. Um, we are partnering with your Anthem, blue Cross and StormFront Inc benefits to support you with your care needs and recovery. Mm-hmm. <affirmative>, how are, how are you feeling in four days? Speaker D: I'm good. Speaker C: You're good. Um, I see that you're back in the hospital again for, for, was it, um, more bleeding, is that right? Speaker D: Yes. Speaker C: Okay. Uh, I'd love to be able to support you and make sure that you have all that you need to recover well at home. Um, Olivia, just to protect your privacy, can you gimme your date of birth and 2552 Highland Grove address? Speaker D: 1923. Okay. You say you call a recorded line? Speaker C: Yeah, I'm, we're part of, we're part of your benefits. Um, uh, we do tele nursing, so basically tele-coaching, so that I call to, to, uh, support you in your recovery. Speaker D: Well this what you calling out of, Speaker C: It's called TechFuse LLC. We partnered with your Anthem BlueLink Co and StormFront Inc benefits. It's an extension of their case management. Speaker D: I ain't never heard of this. Speaker C: No, we're, we're a, we're a, a new part of new partner with, uh, SparkCore Solutions, but um, we, what we do is we support you in your recovery so that we check in to make sure you don't have to get rehospitalized for any issues. I can send you some information on it, so it's perfectly
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker provides any medical consultation or advice during the call.
+    - "0" if the speaker does not provide any medical consultation or advice during the call.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+four days. Um, we are partnering with your Anthem, blue Cross and StormFront Inc benefits to support you with your care needs and recovery. Mm-hmm. <affirmative>, how are, how are you feeling in four days? Speaker D: I'm good. Speaker C: You're good. Um, I see that you're back in the hospital again for, for, was it, um, more bleeding, is that right? Speaker D: Yes. Speaker C: Okay. Uh, I'd love to be able to support you and make sure that you have all that you need to recover well at home. Um, Olivia, just to protect your privacy, can you gimme your date of birth and 2552 Highland Grove address? Speaker D: 1923. Okay. You say you call a recorded line? Speaker C: Yeah, I'm, we're part of, we're part of your benefits. Um, uh, we do tele nursing, so basically tele-coaching, so that I call to, to, uh, support you in your recovery. Speaker D: Well this what you calling out of, Speaker C: It's called TechFuse LLC. We partnered with your Anthem BlueLink Co and StormFront Inc benefits. It's an extension of their case management. Speaker D: I ain't never heard of this. Speaker C: No, we're, we're a, we're a, a new part of new partner with, uh, SparkCore Solutions, but um, we, what we do is we support you in your recovery so that we check in to make sure you don't have to get rehospitalized for any issues. I can send you some information on it, so it's perfectly fine. Speaker D: I sure would like for you this, I don't like giving my information I ain't never heard of before. Speaker C: Sure. And, and all I'm doing, I have your information. We, again, we get your, your basically your records as part of your benefits. I just wanted to verify your privacy, protect your privacy just by asking for HIPAA laws the same way that the nurses will check your bracelet and ask you to state your date of birth when they give you medication. Um, you know, um, so it's not that I'm, you know, looking to take anything from you. I'm just looking to help support you, uh, with your recovery. Um, yeah, let me, let me send you some information. Do you have a uh, cell phone I can send you? Uh, a text to, yeah. Speaker D: Cell Speaker C: Phone. Okay. What's your cell phone number? Speaker D: Eight three one seven three four four three four three four three four three. Speaker C: Okay. Yeah, I'll send you a text with some information on, um, not just um, our company but how to download our app and what we do, it's, what I recommend you do is, uh, especially when you get discharged is you check in on that app every day and you kind of monitor your progress. Um mm-hmm. <affirmative>, it also gives you a direct line to chat with me. Um, you can answer, send any questions that you have, any issues that you
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker provides any medical consultation or advice during the call.
+    - "0" if the speaker does not provide any medical consultation or advice during the call.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+fine. Speaker D: I sure would like for you this, I don't like giving my information I ain't never heard of before. Speaker C: Sure. And, and all I'm doing, I have your information. We, again, we get your, your basically your records as part of your benefits. I just wanted to verify your privacy, protect your privacy just by asking for HIPAA laws the same way that the nurses will check your bracelet and ask you to state your date of birth when they give you medication. Um, you know, um, so it's not that I'm, you know, looking to take anything from you. I'm just looking to help support you, uh, with your recovery. Um, yeah, let me, let me send you some information. Do you have a uh, cell phone I can send you? Uh, a text to, yeah. Speaker D: Cell Speaker C: Phone. Okay. What's your cell phone number? Speaker D: Eight three one seven three four four three four three four three four three. Speaker C: Okay. Yeah, I'll send you a text with some information on, um, not just um, our company but how to download our app and what we do, it's, what I recommend you do is, uh, especially when you get discharged is you check in on that app every day and you kind of monitor your progress. Um mm-hmm. <affirmative>, it also gives you a direct line to chat with me. Um, you can answer, send any questions that you have, any issues that you have getting medications or equipment that you might need at home. Um, it's all right there, you know, for our support. Um, do they give you an timeframe of when you might be discharged? Speaker D: They said in the next hour. Speaker C: Oh, so you're going home in four days you think? Speaker D: Yes, I am. Speaker C: Okay, that's good to hear. Um, then what I can do then is let me send you some of that information and then I can give you a call in five days if you look us up and you feel comfortable with everything. Um, okay. I, okay. And is there a good time or day, uh, a good time of day for me to call you in five days for morning or Speaker D: Afternoon? Five innocent and time at zero in the morning. Speaker C: Oh yeah, we won't call that early <laugh>, we usually don't call until after two. Speaker D: Yeah, anytime after two be fine. Speaker C: Okay. Okay. I'll send you that information and then, um, uh, like I said, if you want, you can take a look at the app and if you feel comfortable downloading it, it's also only the kind of thing that you need to keep on your phone for the first 3 days. You don't need to keep it forever. Um, we're really here just to make sure that you have everything from, you know, that the first month out of getting out of the
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker provides any medical consultation or advice during the call.
+    - "0" if the speaker does not provide any medical consultation or advice during the call.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+have getting medications or equipment that you might need at home. Um, it's all right there, you know, for our support. Um, do they give you an timeframe of when you might be discharged? Speaker D: They said in the next hour. Speaker C: Oh, so you're going home in four days you think? Speaker D: Yes, I am. Speaker C: Okay, that's good to hear. Um, then what I can do then is let me send you some of that information and then I can give you a call in five days if you look us up and you feel comfortable with everything. Um, okay. I, okay. And is there a good time or day, uh, a good time of day for me to call you in five days for morning or Speaker D: Afternoon? Five innocent and time at zero in the morning. Speaker C: Oh yeah, we won't call that early <laugh>, we usually don't call until after two. Speaker D: Yeah, anytime after two be fine. Speaker C: Okay. Okay. I'll send you that information and then, um, uh, like I said, if you want, you can take a look at the app and if you feel comfortable downloading it, it's also only the kind of thing that you need to keep on your phone for the first 3 days. You don't need to keep it forever. Um, we're really here just to make sure that you have everything from, you know, that the first month out of getting out of the hospital. Um, alright. And the only other thing I just would recommend is you're gonna get paperwork called discharge instructions when you get home, Hmmhmm. Um, if you can hang into that, I'd love to go over that with you just to make sure that you have all your medication right, that you have your follow-up appointments set up and I can, I can put all that information even into the app for us. So just hang onto that paperwork. Okay? Speaker D: I will. Speaker C: All right. Well listen, uh, I'll send you a text shortly and um, you feel better and I'll talk to you in five days. Speaker D: All right, thanks. Speaker C: All right. Take care. Bye.
+
+Your response (1, 0, or -9):
+
+
+Answer: 1
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker provides any medical consultation or advice during the call.
+    - "0" if the speaker does not provide any medical consultation or advice during the call.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+hospital. Um, alright. And the only other thing I just would recommend is you're gonna get paperwork called discharge instructions when you get home, Hmmhmm. Um, if you can hang into that, I'd love to go over that with you just to make sure that you have all your medication right, that you have your follow-up appointments set up and I can, I can put all that information even into the app for us. So just hang onto that paperwork. Okay? Speaker D: I will. Speaker C: All right. Well listen, uh, I'll send you a text shortly and um, you feel better and I'll talk to you in five days. Speaker D: All right, thanks. Speaker C: All right. Take care. Bye.
+
+Your response (1, 0, or -9):
+
+
+Answer: 1
+
+Question: Q9
+------------
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speakers discuss care coordination efforts, such as referrals to other health services or coordination with other providers, and follow-up actions.
+    - "0" if the speakers do not discuss care coordination efforts, such as referrals to other health services or coordination with other providers, and follow-up actions.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+Speaker B: Thank you for calling DataPeak Co Medical Center. We are pleased to announce that HorizonEdge Corp has changed its name to DataPeak Co. Over the coming months, you'll notice the new name, a new logo, and a new look. As we transition from FutureMind Solutions to DataPeak Co across our health system, our name and look will be different, but our purpose remains the same and you can expect the same great care and service from your physicians, nurses, and hospitals. Eight of our attendants will be with you shortly. Speaker E: Hall Tip, care and end of life units. Speaker F: Hello, this is Caleb. How Speaker C: Sep I help you? Hi Caleb. I'm looking to be connected to the room for, uh, Mr. Olivia Carrasco. 2 U 3 X W T K. Speaker F: Albuquerque Speaker C: On. Thank you. Speaker F: You're welcome. He is in DataPeak LLC 22. Would you like that number? And I can transfer you in case it's Speaker C: Busy. That'd be great. Thank you. Speaker F: It's 241.213.222.207 249.231.218.245 18 28. Speaker C: Thank you so much. Speaker F: Have a good day. You're welcome. Speaker E: Occasion you wish to visit or go to viant http://www.Xyblaze.gov/admin/notifications/ covid-3. Thank you. And a communications associate will be with you momentarily. Speaker D: Hello? Speaker C: Hi, is this Olivia Carrasco? Speaker D: Yes it Speaker C: Is. Hi Olivia. My name is Gilli. I'm a nurse with TechFuse LLC calling from a recorded line in four days. Um, we are partnering with your Anthem, blue Cross and StormFront Inc benefits to support you with your care needs and recovery. Mm-hmm. <affirmative>, how are, how are you feeling in four days? Speaker D: I'm good. Speaker C: You're good. Um, I see that you're back in the hospital again for, for, was it, um, more bleeding, is that right? Speaker D: Yes. Speaker C: Okay. Uh, I'd love to be able to support you and make sure that you have all that you need to recover well at home. Um, Olivia, just to protect your privacy, can you gimme your date of birth and 2552 Highland Grove address? Speaker D: 1923. Okay. You say you call a recorded line? Speaker C: Yeah, I'm, we're part of, we're part of your benefits. Um, uh, we do tele nursing, so basically tele-coaching, so that I call to, to, uh, support you in your recovery. Speaker D: Well this what you calling out of, Speaker C: It's called TechFuse LLC. We partnered with your Anthem BlueLink Co and StormFront Inc benefits. It's an extension of their case management. Speaker D: I ain't never heard of this. Speaker C: No, we're, we're a, we're a, a new part of new partner with, uh, SparkCore Solutions, but um, we, what we do is we support you in your recovery so that we check in to make sure you don't have to get rehospitalized for any issues. I can send you some information on it, so it's perfectly
+
+Your response (1, 0, or -9):
+
+
+Answer: 1
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speakers discuss care coordination efforts, such as referrals to other health services or coordination with other providers, and follow-up actions.
+    - "0" if the speakers do not discuss care coordination efforts, such as referrals to other health services or coordination with other providers, and follow-up actions.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+four days. Um, we are partnering with your Anthem, blue Cross and StormFront Inc benefits to support you with your care needs and recovery. Mm-hmm. <affirmative>, how are, how are you feeling in four days? Speaker D: I'm good. Speaker C: You're good. Um, I see that you're back in the hospital again for, for, was it, um, more bleeding, is that right? Speaker D: Yes. Speaker C: Okay. Uh, I'd love to be able to support you and make sure that you have all that you need to recover well at home. Um, Olivia, just to protect your privacy, can you gimme your date of birth and 2552 Highland Grove address? Speaker D: 1923. Okay. You say you call a recorded line? Speaker C: Yeah, I'm, we're part of, we're part of your benefits. Um, uh, we do tele nursing, so basically tele-coaching, so that I call to, to, uh, support you in your recovery. Speaker D: Well this what you calling out of, Speaker C: It's called TechFuse LLC. We partnered with your Anthem BlueLink Co and StormFront Inc benefits. It's an extension of their case management. Speaker D: I ain't never heard of this. Speaker C: No, we're, we're a, we're a, a new part of new partner with, uh, SparkCore Solutions, but um, we, what we do is we support you in your recovery so that we check in to make sure you don't have to get rehospitalized for any issues. I can send you some information on it, so it's perfectly fine. Speaker D: I sure would like for you this, I don't like giving my information I ain't never heard of before. Speaker C: Sure. And, and all I'm doing, I have your information. We, again, we get your, your basically your records as part of your benefits. I just wanted to verify your privacy, protect your privacy just by asking for HIPAA laws the same way that the nurses will check your bracelet and ask you to state your date of birth when they give you medication. Um, you know, um, so it's not that I'm, you know, looking to take anything from you. I'm just looking to help support you, uh, with your recovery. Um, yeah, let me, let me send you some information. Do you have a uh, cell phone I can send you? Uh, a text to, yeah. Speaker D: Cell Speaker C: Phone. Okay. What's your cell phone number? Speaker D: Eight three one seven three four four three four three four three four three. Speaker C: Okay. Yeah, I'll send you a text with some information on, um, not just um, our company but how to download our app and what we do, it's, what I recommend you do is, uh, especially when you get discharged is you check in on that app every day and you kind of monitor your progress. Um mm-hmm. <affirmative>, it also gives you a direct line to chat with me. Um, you can answer, send any questions that you have, any issues that you
+
+Your response (1, 0, or -9):
+
+
+Answer: 1
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speakers discuss care coordination efforts, such as referrals to other health services or coordination with other providers, and follow-up actions.
+    - "0" if the speakers do not discuss care coordination efforts, such as referrals to other health services or coordination with other providers, and follow-up actions.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+fine. Speaker D: I sure would like for you this, I don't like giving my information I ain't never heard of before. Speaker C: Sure. And, and all I'm doing, I have your information. We, again, we get your, your basically your records as part of your benefits. I just wanted to verify your privacy, protect your privacy just by asking for HIPAA laws the same way that the nurses will check your bracelet and ask you to state your date of birth when they give you medication. Um, you know, um, so it's not that I'm, you know, looking to take anything from you. I'm just looking to help support you, uh, with your recovery. Um, yeah, let me, let me send you some information. Do you have a uh, cell phone I can send you? Uh, a text to, yeah. Speaker D: Cell Speaker C: Phone. Okay. What's your cell phone number? Speaker D: Eight three one seven three four four three four three four three four three. Speaker C: Okay. Yeah, I'll send you a text with some information on, um, not just um, our company but how to download our app and what we do, it's, what I recommend you do is, uh, especially when you get discharged is you check in on that app every day and you kind of monitor your progress. Um mm-hmm. <affirmative>, it also gives you a direct line to chat with me. Um, you can answer, send any questions that you have, any issues that you have getting medications or equipment that you might need at home. Um, it's all right there, you know, for our support. Um, do they give you an timeframe of when you might be discharged? Speaker D: They said in the next hour. Speaker C: Oh, so you're going home in four days you think? Speaker D: Yes, I am. Speaker C: Okay, that's good to hear. Um, then what I can do then is let me send you some of that information and then I can give you a call in five days if you look us up and you feel comfortable with everything. Um, okay. I, okay. And is there a good time or day, uh, a good time of day for me to call you in five days for morning or Speaker D: Afternoon? Five innocent and time at zero in the morning. Speaker C: Oh yeah, we won't call that early <laugh>, we usually don't call until after two. Speaker D: Yeah, anytime after two be fine. Speaker C: Okay. Okay. I'll send you that information and then, um, uh, like I said, if you want, you can take a look at the app and if you feel comfortable downloading it, it's also only the kind of thing that you need to keep on your phone for the first 3 days. You don't need to keep it forever. Um, we're really here just to make sure that you have everything from, you know, that the first month out of getting out of the
+
+Your response (1, 0, or -9):
+
+
+Answer: 1
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speakers discuss care coordination efforts, such as referrals to other health services or coordination with other providers, and follow-up actions.
+    - "0" if the speakers do not discuss care coordination efforts, such as referrals to other health services or coordination with other providers, and follow-up actions.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+have getting medications or equipment that you might need at home. Um, it's all right there, you know, for our support. Um, do they give you an timeframe of when you might be discharged? Speaker D: They said in the next hour. Speaker C: Oh, so you're going home in four days you think? Speaker D: Yes, I am. Speaker C: Okay, that's good to hear. Um, then what I can do then is let me send you some of that information and then I can give you a call in five days if you look us up and you feel comfortable with everything. Um, okay. I, okay. And is there a good time or day, uh, a good time of day for me to call you in five days for morning or Speaker D: Afternoon? Five innocent and time at zero in the morning. Speaker C: Oh yeah, we won't call that early <laugh>, we usually don't call until after two. Speaker D: Yeah, anytime after two be fine. Speaker C: Okay. Okay. I'll send you that information and then, um, uh, like I said, if you want, you can take a look at the app and if you feel comfortable downloading it, it's also only the kind of thing that you need to keep on your phone for the first 3 days. You don't need to keep it forever. Um, we're really here just to make sure that you have everything from, you know, that the first month out of getting out of the hospital. Um, alright. And the only other thing I just would recommend is you're gonna get paperwork called discharge instructions when you get home, Hmmhmm. Um, if you can hang into that, I'd love to go over that with you just to make sure that you have all your medication right, that you have your follow-up appointments set up and I can, I can put all that information even into the app for us. So just hang onto that paperwork. Okay? Speaker D: I will. Speaker C: All right. Well listen, uh, I'll send you a text shortly and um, you feel better and I'll talk to you in five days. Speaker D: All right, thanks. Speaker C: All right. Take care. Bye.
+
+Your response (1, 0, or -9):
+
+
+Answer: 1
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speakers discuss care coordination efforts, such as referrals to other health services or coordination with other providers, and follow-up actions.
+    - "0" if the speakers do not discuss care coordination efforts, such as referrals to other health services or coordination with other providers, and follow-up actions.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+hospital. Um, alright. And the only other thing I just would recommend is you're gonna get paperwork called discharge instructions when you get home, Hmmhmm. Um, if you can hang into that, I'd love to go over that with you just to make sure that you have all your medication right, that you have your follow-up appointments set up and I can, I can put all that information even into the app for us. So just hang onto that paperwork. Okay? Speaker D: I will. Speaker C: All right. Well listen, uh, I'll send you a text shortly and um, you feel better and I'll talk to you in five days. Speaker D: All right, thanks. Speaker C: All right. Take care. Bye.
+
+Your response (1, 0, or -9):
+
+
+Answer: 1
+
+Question: Q10
+-------------
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker asks for the listener's levels of pain, mood, energy, sleep, mobility, or appetite during the call.
+    - "0" if the speaker does not ask for the listener's levels of pain, mood, energy, sleep, mobility, or appetite during the call.
+    - "-9" if you are not sure. 
+    
+
+Conversation:
+Speaker B: Thank you for calling DataPeak Co Medical Center. We are pleased to announce that HorizonEdge Corp has changed its name to DataPeak Co. Over the coming months, you'll notice the new name, a new logo, and a new look. As we transition from FutureMind Solutions to DataPeak Co across our health system, our name and look will be different, but our purpose remains the same and you can expect the same great care and service from your physicians, nurses, and hospitals. Eight of our attendants will be with you shortly. Speaker E: Hall Tip, care and end of life units. Speaker F: Hello, this is Caleb. How Speaker C: Sep I help you? Hi Caleb. I'm looking to be connected to the room for, uh, Mr. Olivia Carrasco. 2 U 3 X W T K. Speaker F: Albuquerque Speaker C: On. Thank you. Speaker F: You're welcome. He is in DataPeak LLC 22. Would you like that number? And I can transfer you in case it's Speaker C: Busy. That'd be great. Thank you. Speaker F: It's 241.213.222.207 249.231.218.245 18 28. Speaker C: Thank you so much. Speaker F: Have a good day. You're welcome. Speaker E: Occasion you wish to visit or go to viant http://www.Xyblaze.gov/admin/notifications/ covid-3. Thank you. And a communications associate will be with you momentarily. Speaker D: Hello? Speaker C: Hi, is this Olivia Carrasco? Speaker D: Yes it Speaker C: Is. Hi Olivia. My name is Gilli. I'm a nurse with TechFuse LLC calling from a recorded line in four days. Um, we are partnering with your Anthem, blue Cross and StormFront Inc benefits to support you with your care needs and recovery. Mm-hmm. <affirmative>, how are, how are you feeling in four days? Speaker D: I'm good. Speaker C: You're good. Um, I see that you're back in the hospital again for, for, was it, um, more bleeding, is that right? Speaker D: Yes. Speaker C: Okay. Uh, I'd love to be able to support you and make sure that you have all that you need to recover well at home. Um, Olivia, just to protect your privacy, can you gimme your date of birth and 2552 Highland Grove address? Speaker D: 1923. Okay. You say you call a recorded line? Speaker C: Yeah, I'm, we're part of, we're part of your benefits. Um, uh, we do tele nursing, so basically tele-coaching, so that I call to, to, uh, support you in your recovery. Speaker D: Well this what you calling out of, Speaker C: It's called TechFuse LLC. We partnered with your Anthem BlueLink Co and StormFront Inc benefits. It's an extension of their case management. Speaker D: I ain't never heard of this. Speaker C: No, we're, we're a, we're a, a new part of new partner with, uh, SparkCore Solutions, but um, we, what we do is we support you in your recovery so that we check in to make sure you don't have to get rehospitalized for any issues. I can send you some information on it, so it's perfectly
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker asks for the listener's levels of pain, mood, energy, sleep, mobility, or appetite during the call.
+    - "0" if the speaker does not ask for the listener's levels of pain, mood, energy, sleep, mobility, or appetite during the call.
+    - "-9" if you are not sure. 
+    
+
+Conversation:
+four days. Um, we are partnering with your Anthem, blue Cross and StormFront Inc benefits to support you with your care needs and recovery. Mm-hmm. <affirmative>, how are, how are you feeling in four days? Speaker D: I'm good. Speaker C: You're good. Um, I see that you're back in the hospital again for, for, was it, um, more bleeding, is that right? Speaker D: Yes. Speaker C: Okay. Uh, I'd love to be able to support you and make sure that you have all that you need to recover well at home. Um, Olivia, just to protect your privacy, can you gimme your date of birth and 2552 Highland Grove address? Speaker D: 1923. Okay. You say you call a recorded line? Speaker C: Yeah, I'm, we're part of, we're part of your benefits. Um, uh, we do tele nursing, so basically tele-coaching, so that I call to, to, uh, support you in your recovery. Speaker D: Well this what you calling out of, Speaker C: It's called TechFuse LLC. We partnered with your Anthem BlueLink Co and StormFront Inc benefits. It's an extension of their case management. Speaker D: I ain't never heard of this. Speaker C: No, we're, we're a, we're a, a new part of new partner with, uh, SparkCore Solutions, but um, we, what we do is we support you in your recovery so that we check in to make sure you don't have to get rehospitalized for any issues. I can send you some information on it, so it's perfectly fine. Speaker D: I sure would like for you this, I don't like giving my information I ain't never heard of before. Speaker C: Sure. And, and all I'm doing, I have your information. We, again, we get your, your basically your records as part of your benefits. I just wanted to verify your privacy, protect your privacy just by asking for HIPAA laws the same way that the nurses will check your bracelet and ask you to state your date of birth when they give you medication. Um, you know, um, so it's not that I'm, you know, looking to take anything from you. I'm just looking to help support you, uh, with your recovery. Um, yeah, let me, let me send you some information. Do you have a uh, cell phone I can send you? Uh, a text to, yeah. Speaker D: Cell Speaker C: Phone. Okay. What's your cell phone number? Speaker D: Eight three one seven three four four three four three four three four three. Speaker C: Okay. Yeah, I'll send you a text with some information on, um, not just um, our company but how to download our app and what we do, it's, what I recommend you do is, uh, especially when you get discharged is you check in on that app every day and you kind of monitor your progress. Um mm-hmm. <affirmative>, it also gives you a direct line to chat with me. Um, you can answer, send any questions that you have, any issues that you
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker asks for the listener's levels of pain, mood, energy, sleep, mobility, or appetite during the call.
+    - "0" if the speaker does not ask for the listener's levels of pain, mood, energy, sleep, mobility, or appetite during the call.
+    - "-9" if you are not sure. 
+    
+
+Conversation:
+fine. Speaker D: I sure would like for you this, I don't like giving my information I ain't never heard of before. Speaker C: Sure. And, and all I'm doing, I have your information. We, again, we get your, your basically your records as part of your benefits. I just wanted to verify your privacy, protect your privacy just by asking for HIPAA laws the same way that the nurses will check your bracelet and ask you to state your date of birth when they give you medication. Um, you know, um, so it's not that I'm, you know, looking to take anything from you. I'm just looking to help support you, uh, with your recovery. Um, yeah, let me, let me send you some information. Do you have a uh, cell phone I can send you? Uh, a text to, yeah. Speaker D: Cell Speaker C: Phone. Okay. What's your cell phone number? Speaker D: Eight three one seven three four four three four three four three four three. Speaker C: Okay. Yeah, I'll send you a text with some information on, um, not just um, our company but how to download our app and what we do, it's, what I recommend you do is, uh, especially when you get discharged is you check in on that app every day and you kind of monitor your progress. Um mm-hmm. <affirmative>, it also gives you a direct line to chat with me. Um, you can answer, send any questions that you have, any issues that you have getting medications or equipment that you might need at home. Um, it's all right there, you know, for our support. Um, do they give you an timeframe of when you might be discharged? Speaker D: They said in the next hour. Speaker C: Oh, so you're going home in four days you think? Speaker D: Yes, I am. Speaker C: Okay, that's good to hear. Um, then what I can do then is let me send you some of that information and then I can give you a call in five days if you look us up and you feel comfortable with everything. Um, okay. I, okay. And is there a good time or day, uh, a good time of day for me to call you in five days for morning or Speaker D: Afternoon? Five innocent and time at zero in the morning. Speaker C: Oh yeah, we won't call that early <laugh>, we usually don't call until after two. Speaker D: Yeah, anytime after two be fine. Speaker C: Okay. Okay. I'll send you that information and then, um, uh, like I said, if you want, you can take a look at the app and if you feel comfortable downloading it, it's also only the kind of thing that you need to keep on your phone for the first 3 days. You don't need to keep it forever. Um, we're really here just to make sure that you have everything from, you know, that the first month out of getting out of the
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker asks for the listener's levels of pain, mood, energy, sleep, mobility, or appetite during the call.
+    - "0" if the speaker does not ask for the listener's levels of pain, mood, energy, sleep, mobility, or appetite during the call.
+    - "-9" if you are not sure. 
+    
+
+Conversation:
+have getting medications or equipment that you might need at home. Um, it's all right there, you know, for our support. Um, do they give you an timeframe of when you might be discharged? Speaker D: They said in the next hour. Speaker C: Oh, so you're going home in four days you think? Speaker D: Yes, I am. Speaker C: Okay, that's good to hear. Um, then what I can do then is let me send you some of that information and then I can give you a call in five days if you look us up and you feel comfortable with everything. Um, okay. I, okay. And is there a good time or day, uh, a good time of day for me to call you in five days for morning or Speaker D: Afternoon? Five innocent and time at zero in the morning. Speaker C: Oh yeah, we won't call that early <laugh>, we usually don't call until after two. Speaker D: Yeah, anytime after two be fine. Speaker C: Okay. Okay. I'll send you that information and then, um, uh, like I said, if you want, you can take a look at the app and if you feel comfortable downloading it, it's also only the kind of thing that you need to keep on your phone for the first 3 days. You don't need to keep it forever. Um, we're really here just to make sure that you have everything from, you know, that the first month out of getting out of the hospital. Um, alright. And the only other thing I just would recommend is you're gonna get paperwork called discharge instructions when you get home, Hmmhmm. Um, if you can hang into that, I'd love to go over that with you just to make sure that you have all your medication right, that you have your follow-up appointments set up and I can, I can put all that information even into the app for us. So just hang onto that paperwork. Okay? Speaker D: I will. Speaker C: All right. Well listen, uh, I'll send you a text shortly and um, you feel better and I'll talk to you in five days. Speaker D: All right, thanks. Speaker C: All right. Take care. Bye.
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker asks for the listener's levels of pain, mood, energy, sleep, mobility, or appetite during the call.
+    - "0" if the speaker does not ask for the listener's levels of pain, mood, energy, sleep, mobility, or appetite during the call.
+    - "-9" if you are not sure. 
+    
+
+Conversation:
+hospital. Um, alright. And the only other thing I just would recommend is you're gonna get paperwork called discharge instructions when you get home, Hmmhmm. Um, if you can hang into that, I'd love to go over that with you just to make sure that you have all your medication right, that you have your follow-up appointments set up and I can, I can put all that information even into the app for us. So just hang onto that paperwork. Okay? Speaker D: I will. Speaker C: All right. Well listen, uh, I'll send you a text shortly and um, you feel better and I'll talk to you in five days. Speaker D: All right, thanks. Speaker C: All right. Take care. Bye.
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Question: Q11
+-------------
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker discusses the listener's treatment compliance and medical state, including medications, treatments, and overall medical state.
+    - "0" if the speaker does not discuss the listener's treatment compliance and medical state, including medications, treatments, and overall medical state.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+Speaker B: Thank you for calling DataPeak Co Medical Center. We are pleased to announce that HorizonEdge Corp has changed its name to DataPeak Co. Over the coming months, you'll notice the new name, a new logo, and a new look. As we transition from FutureMind Solutions to DataPeak Co across our health system, our name and look will be different, but our purpose remains the same and you can expect the same great care and service from your physicians, nurses, and hospitals. Eight of our attendants will be with you shortly. Speaker E: Hall Tip, care and end of life units. Speaker F: Hello, this is Caleb. How Speaker C: Sep I help you? Hi Caleb. I'm looking to be connected to the room for, uh, Mr. Olivia Carrasco. 2 U 3 X W T K. Speaker F: Albuquerque Speaker C: On. Thank you. Speaker F: You're welcome. He is in DataPeak LLC 22. Would you like that number? And I can transfer you in case it's Speaker C: Busy. That'd be great. Thank you. Speaker F: It's 241.213.222.207 249.231.218.245 18 28. Speaker C: Thank you so much. Speaker F: Have a good day. You're welcome. Speaker E: Occasion you wish to visit or go to viant http://www.Xyblaze.gov/admin/notifications/ covid-3. Thank you. And a communications associate will be with you momentarily. Speaker D: Hello? Speaker C: Hi, is this Olivia Carrasco? Speaker D: Yes it Speaker C: Is. Hi Olivia. My name is Gilli. I'm a nurse with TechFuse LLC calling from a recorded line in four days. Um, we are partnering with your Anthem, blue Cross and StormFront Inc benefits to support you with your care needs and recovery. Mm-hmm. <affirmative>, how are, how are you feeling in four days? Speaker D: I'm good. Speaker C: You're good. Um, I see that you're back in the hospital again for, for, was it, um, more bleeding, is that right? Speaker D: Yes. Speaker C: Okay. Uh, I'd love to be able to support you and make sure that you have all that you need to recover well at home. Um, Olivia, just to protect your privacy, can you gimme your date of birth and 2552 Highland Grove address? Speaker D: 1923. Okay. You say you call a recorded line? Speaker C: Yeah, I'm, we're part of, we're part of your benefits. Um, uh, we do tele nursing, so basically tele-coaching, so that I call to, to, uh, support you in your recovery. Speaker D: Well this what you calling out of, Speaker C: It's called TechFuse LLC. We partnered with your Anthem BlueLink Co and StormFront Inc benefits. It's an extension of their case management. Speaker D: I ain't never heard of this. Speaker C: No, we're, we're a, we're a, a new part of new partner with, uh, SparkCore Solutions, but um, we, what we do is we support you in your recovery so that we check in to make sure you don't have to get rehospitalized for any issues. I can send you some information on it, so it's perfectly
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker discusses the listener's treatment compliance and medical state, including medications, treatments, and overall medical state.
+    - "0" if the speaker does not discuss the listener's treatment compliance and medical state, including medications, treatments, and overall medical state.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+four days. Um, we are partnering with your Anthem, blue Cross and StormFront Inc benefits to support you with your care needs and recovery. Mm-hmm. <affirmative>, how are, how are you feeling in four days? Speaker D: I'm good. Speaker C: You're good. Um, I see that you're back in the hospital again for, for, was it, um, more bleeding, is that right? Speaker D: Yes. Speaker C: Okay. Uh, I'd love to be able to support you and make sure that you have all that you need to recover well at home. Um, Olivia, just to protect your privacy, can you gimme your date of birth and 2552 Highland Grove address? Speaker D: 1923. Okay. You say you call a recorded line? Speaker C: Yeah, I'm, we're part of, we're part of your benefits. Um, uh, we do tele nursing, so basically tele-coaching, so that I call to, to, uh, support you in your recovery. Speaker D: Well this what you calling out of, Speaker C: It's called TechFuse LLC. We partnered with your Anthem BlueLink Co and StormFront Inc benefits. It's an extension of their case management. Speaker D: I ain't never heard of this. Speaker C: No, we're, we're a, we're a, a new part of new partner with, uh, SparkCore Solutions, but um, we, what we do is we support you in your recovery so that we check in to make sure you don't have to get rehospitalized for any issues. I can send you some information on it, so it's perfectly fine. Speaker D: I sure would like for you this, I don't like giving my information I ain't never heard of before. Speaker C: Sure. And, and all I'm doing, I have your information. We, again, we get your, your basically your records as part of your benefits. I just wanted to verify your privacy, protect your privacy just by asking for HIPAA laws the same way that the nurses will check your bracelet and ask you to state your date of birth when they give you medication. Um, you know, um, so it's not that I'm, you know, looking to take anything from you. I'm just looking to help support you, uh, with your recovery. Um, yeah, let me, let me send you some information. Do you have a uh, cell phone I can send you? Uh, a text to, yeah. Speaker D: Cell Speaker C: Phone. Okay. What's your cell phone number? Speaker D: Eight three one seven three four four three four three four three four three. Speaker C: Okay. Yeah, I'll send you a text with some information on, um, not just um, our company but how to download our app and what we do, it's, what I recommend you do is, uh, especially when you get discharged is you check in on that app every day and you kind of monitor your progress. Um mm-hmm. <affirmative>, it also gives you a direct line to chat with me. Um, you can answer, send any questions that you have, any issues that you
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker discusses the listener's treatment compliance and medical state, including medications, treatments, and overall medical state.
+    - "0" if the speaker does not discuss the listener's treatment compliance and medical state, including medications, treatments, and overall medical state.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+fine. Speaker D: I sure would like for you this, I don't like giving my information I ain't never heard of before. Speaker C: Sure. And, and all I'm doing, I have your information. We, again, we get your, your basically your records as part of your benefits. I just wanted to verify your privacy, protect your privacy just by asking for HIPAA laws the same way that the nurses will check your bracelet and ask you to state your date of birth when they give you medication. Um, you know, um, so it's not that I'm, you know, looking to take anything from you. I'm just looking to help support you, uh, with your recovery. Um, yeah, let me, let me send you some information. Do you have a uh, cell phone I can send you? Uh, a text to, yeah. Speaker D: Cell Speaker C: Phone. Okay. What's your cell phone number? Speaker D: Eight three one seven three four four three four three four three four three. Speaker C: Okay. Yeah, I'll send you a text with some information on, um, not just um, our company but how to download our app and what we do, it's, what I recommend you do is, uh, especially when you get discharged is you check in on that app every day and you kind of monitor your progress. Um mm-hmm. <affirmative>, it also gives you a direct line to chat with me. Um, you can answer, send any questions that you have, any issues that you have getting medications or equipment that you might need at home. Um, it's all right there, you know, for our support. Um, do they give you an timeframe of when you might be discharged? Speaker D: They said in the next hour. Speaker C: Oh, so you're going home in four days you think? Speaker D: Yes, I am. Speaker C: Okay, that's good to hear. Um, then what I can do then is let me send you some of that information and then I can give you a call in five days if you look us up and you feel comfortable with everything. Um, okay. I, okay. And is there a good time or day, uh, a good time of day for me to call you in five days for morning or Speaker D: Afternoon? Five innocent and time at zero in the morning. Speaker C: Oh yeah, we won't call that early <laugh>, we usually don't call until after two. Speaker D: Yeah, anytime after two be fine. Speaker C: Okay. Okay. I'll send you that information and then, um, uh, like I said, if you want, you can take a look at the app and if you feel comfortable downloading it, it's also only the kind of thing that you need to keep on your phone for the first 3 days. You don't need to keep it forever. Um, we're really here just to make sure that you have everything from, you know, that the first month out of getting out of the
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker discusses the listener's treatment compliance and medical state, including medications, treatments, and overall medical state.
+    - "0" if the speaker does not discuss the listener's treatment compliance and medical state, including medications, treatments, and overall medical state.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+have getting medications or equipment that you might need at home. Um, it's all right there, you know, for our support. Um, do they give you an timeframe of when you might be discharged? Speaker D: They said in the next hour. Speaker C: Oh, so you're going home in four days you think? Speaker D: Yes, I am. Speaker C: Okay, that's good to hear. Um, then what I can do then is let me send you some of that information and then I can give you a call in five days if you look us up and you feel comfortable with everything. Um, okay. I, okay. And is there a good time or day, uh, a good time of day for me to call you in five days for morning or Speaker D: Afternoon? Five innocent and time at zero in the morning. Speaker C: Oh yeah, we won't call that early <laugh>, we usually don't call until after two. Speaker D: Yeah, anytime after two be fine. Speaker C: Okay. Okay. I'll send you that information and then, um, uh, like I said, if you want, you can take a look at the app and if you feel comfortable downloading it, it's also only the kind of thing that you need to keep on your phone for the first 3 days. You don't need to keep it forever. Um, we're really here just to make sure that you have everything from, you know, that the first month out of getting out of the hospital. Um, alright. And the only other thing I just would recommend is you're gonna get paperwork called discharge instructions when you get home, Hmmhmm. Um, if you can hang into that, I'd love to go over that with you just to make sure that you have all your medication right, that you have your follow-up appointments set up and I can, I can put all that information even into the app for us. So just hang onto that paperwork. Okay? Speaker D: I will. Speaker C: All right. Well listen, uh, I'll send you a text shortly and um, you feel better and I'll talk to you in five days. Speaker D: All right, thanks. Speaker C: All right. Take care. Bye.
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
+
+Prompt:
+
+Choose one of the following options based on the conversation segment:
+
+    - "1" if the speaker discusses the listener's treatment compliance and medical state, including medications, treatments, and overall medical state.
+    - "0" if the speaker does not discuss the listener's treatment compliance and medical state, including medications, treatments, and overall medical state.
+    - "-9" if you are not sure.
+    
+
+Conversation:
+hospital. Um, alright. And the only other thing I just would recommend is you're gonna get paperwork called discharge instructions when you get home, Hmmhmm. Um, if you can hang into that, I'd love to go over that with you just to make sure that you have all your medication right, that you have your follow-up appointments set up and I can, I can put all that information even into the app for us. So just hang onto that paperwork. Okay? Speaker D: I will. Speaker C: All right. Well listen, uh, I'll send you a text shortly and um, you feel better and I'll talk to you in five days. Speaker D: All right, thanks. Speaker C: All right. Take care. Bye.
+
+Your response (1, 0, or -9):
+
+
+Answer: 0
