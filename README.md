@@ -178,3 +178,8 @@ To demonstrate the approach, we selected the most relevant score for two topics.
 - **Hybrid Solution**: Explore the integration of both rule-based and FLAN approaches to leverage the strengths of each model for better overall performance.
 
 ![Hybrid Model](src/visualization/Images/hybrid_model.png)
+
+___
+
+### Acknowledgments
+This project was a collaborative effort involving multiple contributors. I would like to extend my sincere thanks to my colleagues Leehee Barak, Adir Golan, and our mentor Dina Bavli for their invaluable contributions throughout the project. Additionally, a big thank you to the Laguna team for their support and feedback during the development process.
